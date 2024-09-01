@@ -1,5 +1,4 @@
 # TCP dump 
-### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this hands-on lab, I will create a script in order to analyze network traffic using a tool referred to as TCP Dump. I will use TCP dump to inspect TCP packets generated from a website. 
